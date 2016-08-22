@@ -1,0 +1,8 @@
+C:\project\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.dll
+C:\project\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.pdb
+C:\project\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.dll
+C:\project\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.pdb
+D:\tada\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.dll
+D:\tada\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.pdb
+D:\tada\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.dll
+D:\tada\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.pdb

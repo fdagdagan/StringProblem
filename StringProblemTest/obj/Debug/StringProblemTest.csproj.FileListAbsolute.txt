@@ -1,0 +1,10 @@
+\\anthonymarano.com\userdata\HomeDir\FroilanD\Visual Studio 2013\Projects\StringProblem\StringProblemTest\bin\Debug\StringProblemTest.dll
+\\anthonymarano.com\userdata\HomeDir\FroilanD\Visual Studio 2013\Projects\StringProblem\StringProblemTest\bin\Debug\StringProblemTest.pdb
+\\anthonymarano.com\userdata\HomeDir\FroilanD\Visual Studio 2013\Projects\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.csprojResolveAssemblyReference.cache
+\\anthonymarano.com\userdata\HomeDir\FroilanD\Visual Studio 2013\Projects\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.dll
+\\anthonymarano.com\userdata\HomeDir\FroilanD\Visual Studio 2013\Projects\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.pdb
+C:\project\StringProblem\StringProblemTest\bin\Debug\StringProblemTest.dll
+C:\project\StringProblem\StringProblemTest\bin\Debug\StringProblemTest.pdb
+C:\project\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.csprojResolveAssemblyReference.cache
+C:\project\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.dll
+C:\project\StringProblem\StringProblemTest\obj\Debug\StringProblemTest.pdb

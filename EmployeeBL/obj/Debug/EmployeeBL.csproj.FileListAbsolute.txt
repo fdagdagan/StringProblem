@@ -1,0 +1,5 @@
+C:\project\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.dll
+C:\project\StringProblem\EmployeeBL\bin\Debug\EmployeeBL.pdb
+C:\project\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.csprojResolveAssemblyReference.cache
+C:\project\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.dll
+C:\project\StringProblem\EmployeeBL\obj\Debug\EmployeeBL.pdb

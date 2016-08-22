@@ -1,0 +1,14 @@
+﻿
+
+<script src="~/Scripts/jquery-3.1.0.min.js"></script>
+<script src="~/Scripts/employee.js"></script>
+<div>
+    <span style="font-size:16px;font-weight:bold">Enter Employee Data in the following format</span>
+    <br />
+    <span style="font-size:16px;font-weight:bold">Should be in this format <span style="padding-left:3%;font-weight:bold;color:blue"> (id,created,employee(id,firstname,employeeType(id), lastname),location)</span></span>
+    <br />
+    <br />
+    <span>@Html.TextBox("EmployeeInput", "(1,'2016-8-21',Salaried(2,Froilan,Sal(4), Dagdagan),Chicago)", new { style = "width:400px;max-width:100%" }) </span>  <span id="idEnter" style="border:solid;border-color:blue;background-color:blue;color:white">Click!</span>
+</div>
+<div id="divDisplayHere"></div>
+
